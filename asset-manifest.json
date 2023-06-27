@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JefreyTG/proyectoTodoPlatzi/static/css/main.06aca60b.css",
+    "main.js": "/JefreyTG/proyectoTodoPlatzi/static/js/main.4730e51b.js",
+    "index.html": "/JefreyTG/proyectoTodoPlatzi/index.html",
+    "static/media/delete.svg": "/JefreyTG/proyectoTodoPlatzi/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/JefreyTG/proyectoTodoPlatzi/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.06aca60b.css.map": "/JefreyTG/proyectoTodoPlatzi/static/css/main.06aca60b.css.map",
+    "main.4730e51b.js.map": "/JefreyTG/proyectoTodoPlatzi/static/js/main.4730e51b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06aca60b.css",
+    "static/js/main.4730e51b.js"
+  ]
+}
